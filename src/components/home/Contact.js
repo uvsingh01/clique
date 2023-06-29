@@ -21,7 +21,7 @@ const Contact = () => {
           tristique senectus et netus. Fermentum iaculis eu non diam. Sit amet
           tellus cras adipiscing.
         </div>
-        <div className="p-4 border-2 inline border-amber-500 bg-white ml-10">Learn more</div>
+        <div className="p-4 border-2 inline border-amber-500 bg-white ml-10 cursor-pointer">Learn more</div>
       </div>
     </div>
   );
